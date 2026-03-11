@@ -7,7 +7,7 @@ hide_last_modified: false
 ---
 
 ## Education
-
+---
 ### 2025 – Present
 #### Master in Logic and Artificial Intelligence — *TU Wien*
 Focused on advanced topics in artificial intelligence, combinatorial optimization, and machine learning, with an emphasis on research and practical applications.
