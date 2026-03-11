@@ -1,4 +1,3 @@
 .flip-project-img img {
-    object-fit: cover;   /* keeps full cover */
     object-position: left center; 
 }
