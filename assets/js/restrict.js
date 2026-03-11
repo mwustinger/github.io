@@ -1,7 +1,7 @@
 // assets/js/restrict.js
 
 // List of allowed paths
-const allowedPaths = ['/', '/contact', '/publications', '/resume'];
+const allowedPaths = ['/', '/about', '/publications', '/resume'];
 
 // Get current path in lowercase
 let path = window.location.pathname.toLowerCase();
