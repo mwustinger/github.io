@@ -1,14 +1,14 @@
 // assets/js/restrict.js
 
 // List of allowed paths
-const allowedPaths = ['/', '/about', '/publications', '/resume'];
+const allowedPaths = ['/', '/about', '/publications', '/cv'];
 
 // Get current path in lowercase
 let path = window.location.pathname.toLowerCase();
 
 // Redirect /cv to /resume
-if (path === '/cv' || path === '/cv/') {
-  window.location.href = '/resume';
+if (path === '/resume' || path === '/resume/' || path === '/cv/') {
+  window.location.href = '/cv';
 }
 
 // If path is not allowed, redirect to homepage
