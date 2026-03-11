@@ -1,6 +1,4 @@
 .flip-project-img img {
-    aspect-ratio: 16 / 4.5; /* original 16/9 → now half as tall */
-    height: auto;           /* ensure responsive scaling */
     object-fit: cover;   /* keeps full cover */
-    object-position: right center; 
+    object-position: left center; 
 }
