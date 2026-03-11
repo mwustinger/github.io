@@ -361,10 +361,9 @@ plugins:
 # Used on index and about sites
 social:
   name:                Martin Wustinger
-  links:
-    - https://www.linkedin.com/in/martin-wustinger-1480283b6/
-    - https://www.instagram.com/martin_wust/
-    - https://github.com/mwustinger
+  linkedin: https://www.linkedin.com/in/martin-wustinger-1480283b6/
+  instagram: https://www.instagram.com/martin_wust/
+  github: https://github.com/mwustinger
 
 
 # Plugin Configs
