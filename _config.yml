@@ -358,13 +358,6 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
-social:
-  name:                Martin Wustinger
-  linkedin: https://www.linkedin.com/in/martin-wustinger-1480283b6/
-  instagram: https://www.instagram.com/martin_wust/
-  github: https://github.com/mwustinger
-
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
