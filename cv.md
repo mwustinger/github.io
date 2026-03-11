@@ -6,10 +6,6 @@ hide_description: true
 hide_last_modified: false
 ---
 
-**Master Student Student in Logic and Artificial Intelligence**  
-
----
-
 ## Education
 
 ### 2025 – Present
