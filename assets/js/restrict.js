@@ -7,7 +7,7 @@ const allowedPaths = ['/', '/about', '/publications', '/cv'];
 let path = window.location.pathname.toLowerCase();
 
 // Redirect /cv to /resume
-if (path === '/resume' || path === '/resume/' || path === '/cv/') {
+if (path === '/resume' || path === '/resume/') {
   window.location.href = '/cv';
 }
 
