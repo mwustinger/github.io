@@ -83,35 +83,29 @@ Assisted company staff with day-to-day technical and administrative operations.
 Organized weekly entertainment programs for children of different age groups and managed the community’s finances for four years.
 
 
-## Technical Skills
+## Skills & Qualifications
 ---
-**Programming**  
-- Python *(CrewAI, NumPy, PuLP, Scikit-learn)*  
-- Julia *(Graphs.jl, JuMP.jl, PyCall.jl)*  
-- Java *(Spring, Gradle, Maven)*
+### Programming 
+- **Python:** CrewAI, NumPy, PuLP, Scikit-learn
+- **Julia:** Graphs.jl, JuMP.jl, PyCall.jl
+- **Java:** Spring, Gradle, Maven
 
-**Project Management**
-- Scrum
-- Kanban
+### Project Management
+- **Scrum**
+- **Kanban**
 
-**Optimization & Algorithms**  
-- Mathematical Programming *(LP, MILP)*
-- Heuristic and Metaheuristic Algorithms *(GRASP, LNS, CMSA)*
-
-
-## Languages
----
-- **German** — Native  
-- **English** — Fluent
+### Optimization & Algorithms  
+- **Mathematical Programming:** LP, MILP
+- **Heuristic and Metaheuristic Algorithms:** GRASP, LNS, CMSA
 
 
-## Additional Qualifications
----
-Driving License — Class B
+### Other Qualifications
+- **Languages:** German (Native), English (Fluent)  
+- **Additional Qualifications:** Driving License — Class B
 
 
 ## References
 ---
-**Prof. Günther Raidl**  
+[**Prof. Günther Raidl**](https://www.ac.tuwien.ac.at/people/raidl/)
 Ao.Univ.Prof. Dipl.-Ing. Dr.techn.  
 TU Wien
