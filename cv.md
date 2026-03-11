@@ -1,80 +1,57 @@
 ---
 layout: page
-title: CV
+title: Martin Wustinger
 permalink: /cv/
 description: Curriculum Vitae of Martin Wustinger
 hide_description: true
 hide_last_modified: false
 ---
 
-# Martin Wustinger
-
-**MSc Student in Logic and Artificial Intelligence**  
+**Master Student Student in Logic and Artificial Intelligence**  
 
 ---
 
-# Education
-
-<div class="timeline">
-
-<div class="timeline-item">
+## Education
 
 ### 2025 – Present  
-**Master in Logic and Artificial Intelligence**  
-TU Wien  
+**Master in Logic and Artificial Intelligence — TU Wien**
 
 Focused on advanced topics in artificial intelligence, combinatorial optimization, and machine learning, with an emphasis on research and practical applications.
 
-</div>
-
-<div class="timeline-item">
+---
 
 ### 2023 – 2025  
-**Bachelor of Honors**  
-TU Wien  
+**Bachelor of Honors — TU Wien**
 
 Program designed to deepen my interest in algorithms, optimization, and machine learning while developing research skills through research projects and specialized lectures.
 
-</div>
-
-<div class="timeline-item">
+---
 
 ### 2021 – 2025  
-**Bachelor in Informatics**  
-TU Wien  
+**Bachelor in Informatics — TU Wien**
 
 Specialization in Artificial Intelligence and Machine Learning with electives in software engineering, project management, algorithms, and optimization.
 
 **Thesis:**  
 *A Denoising Diffusion Adaptive Search for Solving the α-Domination Problem on Social Graphs*
 
-</div>
-
-<div class="timeline-item">
+---
 
 ### 2020 – 2021  
-**Community Service – Paramedic**  
-Rotes Kreuz Gänserndorf  
+**Community Service – Paramedic — Rotes Kreuz Gänserndorf**
 
 Completed comprehensive paramedic training and gained practical experience in emergency medical care.
 
-</div>
-
-<div class="timeline-item">
+---
 
 ### 2015 – 2020  
-**Department of Informatics**  
-TGM – Die Schule der Technik  
+**Department of Informatics — TGM – Die Schule der Technik**
 
 Technical training including Spring Boot development, project management, network configuration in virtual environments, and embedded systems programming.
 
-</div>
-
-</div>
-
 ---
 
-# Professional Experience
+## Professional Experience
 
 ### 2024 Dec – 2025 May  
 **AIT Austrian Institute of Technology — Internship**
@@ -121,7 +98,7 @@ Assisted company staff with day-to-day technical and administrative operations.
 
 ---
 
-# Volunteering
+## Volunteering
 
 ### 2017 – 2024  
 **Group Leader — Catholic Youth**
@@ -130,30 +107,38 @@ Organized weekly programs for children of different age groups and managed the c
 
 ---
 
-# Technical Skills
+## Technical Skills
 
-| Category | Skills |
-|--------|--------|
-| Programming | Python (NumPy, PuLP, Scikit-learn), Julia (Graphs.jl, JuMP.jl, PyCall.jl), Java (Spring, Gradle, Maven) |
-| Data | R, SQL |
-| Optimization | MILP, combinatorial optimization, heuristic and metaheuristic algorithms |
+**Programming**  
+Python *(NumPy, PuLP, Scikit-learn)*  
+Julia *(Graphs.jl, JuMP.jl, PyCall.jl)*  
+Java *(Spring, Gradle, Maven)*
+
+**Data & Query Languages**  
+R  
+SQL
+
+**Optimization & Algorithms**  
+Mixed Integer Linear Programming (MILP)  
+Combinatorial Optimization  
+Heuristic and Metaheuristic Algorithms
 
 ---
 
-# Languages
+## Languages
 
-- German (native)  
-- English (fluent)
+- **German** — Native  
+- **English** — Fluent
 
 ---
 
-# Additional Qualifications
+## Additional Qualifications
 
 Driving License — Class B
 
 ---
 
-# References
+## References
 
 **Prof. Günther Raidl**  
 Ao.Univ.Prof. Dipl.-Ing. Dr.techn.  
