@@ -1,4 +1,4 @@
 .flip-project-img img {
     object-fit: cover;   /* keeps full cover */
-    object-position: right center;  /* center the image instead of cropping from left */
+    object-position: right center; 
 }
