@@ -38,37 +38,38 @@ The technical training in the department of Informatics included Spring Boot dev
 ## Professional Experience
 
 ### 2024 Dec – 2025 May  
+#### Master Thesis Student - *AIT Austrian Institute of Technology*
+
+As part of my master’s thesis, I investigated the possibilities of heuristic problem-solving strategies in order to develop an extension of the IESopt framework, enabling the solution of problems that would otherwise be unsolvable due to excessive complexity.
+
+**Thesis:** *Optimization strategies for an automated on-demand shuttle service*
+
+### 2024 Dec – 2025 May  
 #### Internship - *AIT Austrian Institute of Technology*
 
-Contributed to a research project on the DDARP problem by formulating the objective function as a MILP, comparing optimization approaches, and developing Julia plugins for the in-house optimization framework **IESopt**.
+Contributed to a research project on the DDARP problem by formulating the objective function as a MILP, comparing optimization approaches, and developing Julia plugins for the in-house optimization framework IESopt.
 
 **Paper:** *Optimization strategies for an automated on-demand shuttle service*
 
----
 
 ### 2023 – 2024  
-**Tutor — TU Wien**
+#### Tutor — *TU Wien*
+Worked as a tutor in several computer science and artificial intelligence courses after receiving multiple tutoring offers due to strong academic performance.
 
-Served as a tutor in several computer science and artificial intelligence courses after receiving multiple tutoring offers due to strong academic performance.
-
----
 
 ### 2022 July  
-**Speech Processing Solutions GmbH — Internship**
+#### Internship — *Speech Processing Solutions GmbH*
+Integrated and configured a KSQL server within an existing Kubernetes environment in the Microsoft Azure cloud infrastructure.
 
-Integrated and configured a **KSQL server** within an existing **Kubernetes environment** in the Microsoft Azure cloud infrastructure.
-
----
 
 ### 2022 Feb – Jun  
-**Studying with Disabilities — Tutoring**
-
-Provided academic support to a student with ADHD, assisting with semester planning and course material review.
+#### Tutor — *TU Wien*
+Within the Studying with Disabilities program I provided academic support to a student with ADHD, assisting with semester planning and course material review.
 
 ---
 
 ### 2018 July  
-**Speech Processing Solutions GmbH — Internship**
+#### Internship — *Speech Processing Solutions GmbH*
 
 Conducted testing and evaluation of audio recording devices and related software applications.
 
