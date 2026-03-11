@@ -8,30 +8,30 @@ hide_last_modified: false
 
 ## Education
 ---
-### 2025 – Present
-#### Master in Logic and Artificial Intelligence — *TU Wien*
+### Master in Logic and Artificial Intelligence — *TU Wien*
+##### 2025 – Present
 Focused on advanced topics in artificial intelligence, combinatorial optimization, and machine learning, with an emphasis on research and practical applications.
 
 
-### 2023 – 2025 
-#### Bachelor of Honors — *TU Wien*
+### Bachelor of Honors — *TU Wien*
+##### 2023 – 2025 
 Program designed to deepen my interest in algorithms, optimization, and machine learning while developing research skills through research projects and specialized lectures.
 
 
-### 2021 – 2025 
-#### Bachelor in Informatics — *TU Wien*
+### Bachelor in Informatics — *TU Wien*
+##### 2021 – 2025 
 Specialization in Artificial Intelligence and Machine Learning with electives in software engineering, project management, algorithms, and optimization.
 
 **Thesis:** *A Denoising Diffusion Adaptive Search for Solving the α-Domination Problem on Social Graphs*
 
 
-### 2020 – 2021 
-#### Paramedic — *Rotes Kreuz Gänserndorf*
+### Paramedic — *Rotes Kreuz Gänserndorf*
+##### 2020 – 2021 
 Completed comprehensive paramedic training and gained practical experience in emergency medical care.
 
 
-### 2015 – 2020 
-#### Matura — *TGM Die Schule der Technik*
+### Matura — *TGM Die Schule der Technik*
+##### 2015 – 2020 
 The technical training in the department of Informatics included Spring Boot development, project management, network configuration in virtual environments, and embedded systems programming.
 
 
