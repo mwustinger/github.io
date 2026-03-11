@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Martin Wustinger
-permalink: /cv/
 description: Curriculum Vitae of Martin Wustinger
 hide_description: true
 hide_last_modified: false
