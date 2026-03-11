@@ -12,6 +12,9 @@
 
 h5 {
   color: #666666;  /* grey */
+  margin-top: 0.2em;     /* reduces space above the heading */
+  margin-bottom: 0.5em;  /* optional: controls space after heading */
+  font-weight: bold;      /* optional: make it stand out */
 }
 
 [class^="icon-"], [class*=" icon-"] {
