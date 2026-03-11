@@ -85,10 +85,9 @@ Assisted company staff with day-to-day technical and administrative operations.
 #### Group Leader — *Catholic Youth*
 Organized weekly entertainment programs for children of different age groups and managed the community’s finances for four years.
 
----
 
 ## Technical Skills
-
+---
 **Programming**  
 - Python *(CrewAI, NumPy, PuLP, Scikit-learn)*  
 - Julia *(Graphs.jl, JuMP.jl, PyCall.jl)*  
@@ -102,23 +101,20 @@ Organized weekly entertainment programs for children of different age groups and
 - Mathematical Programming *(LP, MILP)*
 - Heuristic and Metaheuristic Algorithms *(GRASP, LNS, CMSA)*
 
----
 
 ## Languages
-
+---
 - **German** — Native  
 - **English** — Fluent
 
----
 
 ## Additional Qualifications
-
+---
 Driving License — Class B
 
----
 
 ## References
-
+---
 **Prof. Günther Raidl**  
 Ao.Univ.Prof. Dipl.-Ing. Dr.techn.  
 TU Wien
