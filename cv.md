@@ -12,44 +12,36 @@ hide_last_modified: false
 
 ## Education
 
-### 2025 – Present  
-#### Master in Logic and Artificial Intelligence — *TU Wien*
+### 2025 – Present   Master in Logic and Artificial Intelligence — *TU Wien*
 Focused on advanced topics in artificial intelligence, combinatorial optimization, and machine learning, with an emphasis on research and practical applications.
 
 
-### 2023 – 2025  
-#### Bachelor of Honors — *TU Wien*
+### 2023 – 2025   Bachelor of Honors — *TU Wien*
 Program designed to deepen my interest in algorithms, optimization, and machine learning while developing research skills through research projects and specialized lectures.
 
 
-### 2021 – 2025 
-#### Bachelor in Informatics — *TU Wien*
+### 2021 – 2025   Bachelor in Informatics — *TU Wien*
 Specialization in Artificial Intelligence and Machine Learning with electives in software engineering, project management, algorithms, and optimization.
 
-**Thesis:**  
-*A Denoising Diffusion Adaptive Search for Solving the α-Domination Problem on Social Graphs*
+**Thesis:** *A Denoising Diffusion Adaptive Search for Solving the α-Domination Problem on Social Graphs*
 
 
-### 2020 – 2021  
-#### Paramedic — *Rotes Kreuz Gänserndorf*
+### 2020 – 2021   Paramedic — *Rotes Kreuz Gänserndorf*
 Completed comprehensive paramedic training and gained practical experience in emergency medical care.
 
 
-### 2015 – 2020  
-#### Department of Informatics — *TGM Die Schule der Technik*
-
+### 2015 – 2020   Department of Informatics — *TGM Die Schule der Technik*
 Technical training including Spring Boot development, project management, network configuration in virtual environments, and embedded systems programming.
 
 
 ## Professional Experience
 
 ### 2024 Dec – 2025 May  
-**AIT Austrian Institute of Technology — Internship**
+#### Internship - *AIT Austrian Institute of Technology*
 
 Contributed to a research project on the DDARP problem by formulating the objective function as a MILP, comparing optimization approaches, and developing Julia plugins for the in-house optimization framework **IESopt**.
 
-**Paper:**  
-Optimization strategies for an automated on-demand shuttle service
+**Paper:** *Optimization strategies for an automated on-demand shuttle service*
 
 ---
 
