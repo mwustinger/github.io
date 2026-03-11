@@ -11,7 +11,7 @@
 }
 
 h3 {
-  margin-top: 1em;     /* reduces space above the heading */
+  margin-top: 2.5em;     /* reduces space above the heading */
   margin-bottom: 0.5em;  /* optional: controls space after heading */
   font-weight: bold;      /* optional: make it stand out */
 }
