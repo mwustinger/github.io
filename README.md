@@ -1,96 +1,183 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
-# Getting Started
+# Hydejack
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+A boutique Jekyll theme for hackers, nerds, and academics.  
 
-See more info at https://academicpages.github.io/
 
-## Running locally
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-1. Clone the repository and made updates as detailed above.
+[![Screenshot](https://hydejack.com/assets/img/blog/hydejack-9.jpg)][welcome]
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+<p align="center">Hydejack's cover page on a variety of screen sizes.
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
-## Using Docker
+> Your complete presence on the web — A [blog], [portfolio], and [resume].
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-You can build and execute the container by running the following command in the repository:
 
-```bash
-chmod -R 777 .
-docker compose up
+## A Personal Site That Won't Disappear
+
+**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+
+Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
+
+
+## A Free Blogging Theme
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+<!--posts-->
+
+
+## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it.
+
+<!--projects-->
+
+
+## A Printable Resume
+Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](https://hydejack.com/assets/Resume.pdf).
+
+[![Resume PDF](https://hydejack.com/assets/img/blog/resume.png)][resume]
+
+<p align="center">Front and center page of a print resume generated by Hydejack.
+
+
+
+## Just Markdown
+Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+
+
+## Just Markup
+**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
+
+![w3m Screenshot](https://hydejack.com/assets/img/blog/w3m.png)
+
+<p align="center">The Hydejack blog, as seen by the text browser `w3m`.
+
+
+
+## Syntax Highlighting
+**Hydejack** features syntax highlighting, powered by [Rouge].
+
+```html
+<!-- file: `_includes/my-body.html` -->
+<script type="module">
+  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
+    const supportsCodeHighlights = false; // TBD!!
+  });
+</script>
 ```
 
-You should now be able to access the website from `localhost:4000`.
+<p align="center">Code blocks can have a filename and a caption.
 
-### Using the DevContainer in VS Code
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
-# Maintenance
+## Beautiful Math
+They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+![Math example](https://hydejack.com/assets/img/blog/example-content-iii.jpg)
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+<p align="center">Hydejack uses KaTeX to efficiently render math.
 
-## Bugfixes and enhancements
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+## Features
 
----
-<div align="center">
+An incomplete list of features included in all versions of **Hydejack**:
+
+* Responsive layout with unique design features for every screen size
+* Cover Pages for a stunning first impression.
+* Customizable sidebar and touch-enabled drawer menu
+* Single Page Web App-style page loading
+* Advanced FLIP animations, inspired by Material Design
+* Good [Google PageSpeed Score][gpss][^11]
+* [Syntax highlighting][syntax], powered by [Rouge]
+* [LaTeX math blocks][latex], rendered with ether [KaTeX] or [MathJax] at your choice
+* Soft-coded labels: Change wording or translate to other languages via a single file
+* Support for categories and tags
+* Author section below each article and support for multiple authors
+* Built-in icons for many social networks
+* Simple and semantic HTML + Structured Data
+* Works with GitHub Pages out of the box[^12]
+
+[^11]: Actual page load speed depends on your hosting provider, location, resolution and format of images, usage of 3rd party plugins, and other factors.
+
+[^12]: Some limitations apply, most notably the need to use use MathJax instead of KaTeX for math block rendering.
+
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+
+
+## Download
+
+There are two versions of **Hydejack**: The *Free Version* includes basic blogging functionality and most of Hydejack's [Features], such as dynamic page loading and advanced animations.
+
+The *PRO Version* includes additional features for professionals, such as a [portfolio], [resume], [Dark Mode][dark], [Forms], [Built-In Search][search] and customizable cookie banners.
+
+The table below shows what's included in each version:
+
+|                               | Free                | PRO                 |
+|:------------------------------|:-------------------:|:-------------------:|
+| [Blog]                        | &#x2714;            | &#x2714;            |
+| [Features]                    | &#x2714;            | &#x2714;            |
+| [Documentation][docs]         | &#x2714;            | &#x2714;            |
+| [Dark Mode][dark]             | &#x2714;            | &#x2714;            |
+| [Portfolio]                   |                     | &#x2714;            |
+| Printable [Resume]            |                     | &#x2714;            |
+| [Built-In Search][search]     |                     | &#x2714;            |
+| [Custom Forms][forms]         |                     | &#x2714;            |
+| [Grid layout][grid]           |                     | &#x2714;            |
+| [Offline Support][ofln]       |                     | &#x2714;            |
+| Table of Contents[^21]        |                     | &#x2714;            |
+| Cookie Banner                 |                     | &#x2714;            |
+| No Hydejack Branding          |                     | &#x2714;            |
+| License                       | [GPL-3.0][lic]      | [PRO]               |
+| Source                        | [GitHub][src]       | Included            |
+| __Price__                     | __Free__            | __$99__ <small>One-Time Purchase</small>[^xx] |
+|                               | [__Download__][kit] | [__Buy PRO__][buy] |
+
+
+[^21]: Large screens (> 1664px width) only.
+
+[^xx]: 
+    Discounts may apply, check [Gumroad][buy] for up-to-date pricing.
     
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+
+
+
+[blog]: https://hydejack.com/blog/
+[portfolio]: https://hydejack.com/showcase/
+[resume]: https://hydejack.com/resume/
+[download]: https://hydejack.com/download/
+[welcome]: https://hydejack.com/
+[forms]: https://hydejack.com/forms-by-example/
+
+[features]: https://hydejack.com/#features
+[news]: https://hydejack.com/#build-an-audience
+[syntax]: https://hydejack.com/#syntax-highlighting
+[latex]: https://hydejack.com/#beautiful-math
+[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
+[search]: https://hydejack.com/#_search-input
+[grid]: https://hydejack.com/blog/hydejack/
+
+[lic]: LICENSE.md
+[pro]: licenses/PRO.md
+[docs]: https://hydejack.com/docs/
+[ofln]: https://hydejack.com/docs/advanced/#enabling-offline-support
+[math]: https://hydejack.com/docs/writing/#adding-math
+
+[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
+[src]: https://github.com/hydecorp/hydejack
+[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
+[buy]: https://gum.co/nuOluY
+
+[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
+[rouge]: http://rouge.jneen.net
+[katex]: https://khan.github.io/KaTeX/
+[mathjax]: https://www.mathjax.org/
