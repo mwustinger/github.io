@@ -36,13 +36,12 @@ The technical training in the department of Informatics included Spring Boot dev
 
 
 ## Professional Experience
-
-### 2024 Dec – 2025 May  
+---
+### 2025 Jan – Present  
 #### Master Thesis Student - *AIT Austrian Institute of Technology*
+As part of my master’s thesis, I investigated the possibilities of heuristic problem-solving strategies in order to develop an extension of the IESopt framework to solve problems that would otherwise be unsolvable due to excessive complexity.
 
-As part of my master’s thesis, I investigated the possibilities of heuristic problem-solving strategies in order to develop an extension of the IESopt framework, enabling the solution of problems that would otherwise be unsolvable due to excessive complexity.
-
-**Thesis:** *Optimization strategies for an automated on-demand shuttle service*
+**Thesis:** *Heuristic Problem-Solving Strategies for the IESopt Framework*
 
 ### 2024 Dec – 2025 May  
 #### Internship - *AIT Austrian Institute of Technology*
@@ -66,46 +65,42 @@ Integrated and configured a KSQL server within an existing Kubernetes environmen
 #### Tutor — *TU Wien*
 Within the Studying with Disabilities program I provided academic support to a student with ADHD, assisting with semester planning and course material review.
 
----
 
 ### 2018 July  
 #### Internship — *Speech Processing Solutions GmbH*
 
 Conducted testing and evaluation of audio recording devices and related software applications.
 
----
 
 ### 2017 July  
-**Netz Niederösterreich GmbH — Internship**
+#### Internship — *Netz Niederösterreich GmbH*
 
 Assisted company staff with day-to-day technical and administrative operations.
 
----
+
 
 ## Volunteering
-
+---
 ### 2017 – 2024  
-**Group Leader — Catholic Youth**
-
-Organized weekly programs for children of different age groups and managed the community’s finances for four years.
+#### Group Leader — *Catholic Youth*
+Organized weekly entertainment programs for children of different age groups and managed the community’s finances for four years.
 
 ---
 
 ## Technical Skills
 
 **Programming**  
-Python *(NumPy, PuLP, Scikit-learn)*  
-Julia *(Graphs.jl, JuMP.jl, PyCall.jl)*  
-Java *(Spring, Gradle, Maven)*
+- Python *(CrewAI, NumPy, PuLP, Scikit-learn)*  
+- Julia *(Graphs.jl, JuMP.jl, PyCall.jl)*  
+- Java *(Spring, Gradle, Maven)*
 
-**Data & Query Languages**  
-R  
-SQL
+**Project Management**
+- Scrum
+- Kanban
 
 **Optimization & Algorithms**  
-Mixed Integer Linear Programming (MILP)  
-Combinatorial Optimization  
-Heuristic and Metaheuristic Algorithms
+- Mathematical Programming *(LP, MILP)*
+- Heuristic and Metaheuristic Algorithms *(GRASP, LNS, CMSA)*
 
 ---
 
