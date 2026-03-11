@@ -1,0 +1,11 @@
+/* custom.css */
+.timeline-date {
+  float: left;
+  width: 150px;
+  font-weight: bold;
+}
+
+.timeline-title {
+  display: block;
+  margin-left: 160px;
+}
